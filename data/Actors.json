@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"battlerName":"tn","characterIndex":0,"characterName":"tn","classId":1,"equips":[3,0,0,0,0],"faceIndex":0,"faceName":"tn","traits":[{"code":31,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Rio","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"om","characterIndex":0,"characterName":"om","classId":2,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"om","traits":[],"initialLevel":1,"maxLevel":99,"name":"Adumb","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":6,"characterName":"Monster","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"Demon","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":4,"characterName":"Evil","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
