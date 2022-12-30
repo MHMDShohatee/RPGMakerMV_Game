@@ -1,4 +1,4 @@
-# RPG MAKER MV FIRST GAME
+# RPG MAKER MV GAME
 
 Click the CLICKHEREFORDEMO Folder after downloading everything
 
